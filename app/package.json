@@ -17,7 +17,7 @@
     "ethereumjs-wallet": "^0.6.3",
     "express": "^4.16.3",
     "fs-extra": "^7.0.1",
-    "http-proxy-middleware": "^0.19.1",
+    "http-proxy-middleware": "^0.20.0",
     "lodash": "^4.17.11",
     "morgan": "^1.9.1",
     "scrypt": "^6.0.3",
